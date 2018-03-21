@@ -1,0 +1,20 @@
+#myDIV {
+    width: 100px;
+    height: 80px;
+    background: blue;
+    -webkit-transition: 2s; 
+    transition: 2s;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+#myDIV:hover {
+    width: 400px;
+}
+
+.fab.fa-accessible-icon {
+color: #fff;
+margin-top: 10px;
+float: right;
+}
